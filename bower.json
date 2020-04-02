@@ -1,0 +1,7 @@
+{
+  "name": "angular-s3-upload",
+    "dependencies": {
+    "angular": "~1.2.19",
+    "aws-sdk-js": "~2.283.1"
+  }
+}
